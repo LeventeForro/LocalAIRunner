@@ -1,0 +1,48 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Node.js
+node_modules/
+dist/
+build/
+.vite/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated files and databases
+*.db
+*.sqlite3
+postgres_data/
+uploads/
+outputs/
+generated_images/
+
+# AI models and large files
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.gguf
+
+# ComfyUI
+ComfyUI/
+ComfyUI_windows_portable/
