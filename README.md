@@ -42,26 +42,25 @@ The main goal of the project is to make experimenting with local AI models easie
 
 The main chat interface for interacting with locally hosted language models through Ollama.
 
-![Chat Interface](docs\screenshots\chat_panel.png)
+![Chat Interface](docs/screenshots/chat_panel.png)
 
 ### Image Generation
 
 Generate images locally using ComfyUI.
 
-![Image Generation](docs\screenshots\image_generation.png)
+![Image Generation](docs/screenshots/image_generation.png)
 
 ### Hardware Monitoring
 
 Monitor real-time CPU, RAM, GPU utilization, and GPU temperature.
 
-![Hardware Monitoring](docs\screenshots\monitoring.png)
+![Hardware Monitoring](docs/screenshots/monitoring.png)
 
 ### Conversation History
 
-Rename, and delete previously saved conversations.
+Rename and delete previously saved conversations.
 
-![Conversation History](docs\screenshots\history.png)
-
+![Conversation History](docs/screenshots/history.png)
 
 ## Technology Stack
 
